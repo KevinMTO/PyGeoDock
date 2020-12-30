@@ -1,0 +1,5 @@
+python main.py --is_test True --filepath ./data/166296378.mol2 --logname john --iteration 1 --group_by 2 --distance_simplificatio
+n True --multiple_steps True --toggle_brute_hubo True --gran 4 --round_val 2 --approx 1
+
+
+python main.py True ./data/166296378.mol2  john  1  2 True  True  True  4  2  1
